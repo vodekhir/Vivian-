@@ -12,4 +12,4 @@ I am passionate about learning new languages!
 📫 How to reach me: mail: vivianodekhiran@gmail.com
 ✨ Fun fact: I lived in Daejeon, South Korea for 3 years! 
 
-⭐Feel free to check out some of my other projects such as ✈︎ Smoove, a solution for making your next move, smooth.
+⭐Feel free to check out some of my other projects such as ✈︎ Smoove, a solution for making your next move, smooth..

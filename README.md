@@ -8,7 +8,7 @@
 <li>👩🏽‍🔬 I’m looking to continue working on more open source projects and create cool tech in the science field.</li>  
 <li>🌻 I’m interested in any challenging frontend, backend, or fullstack opportunities available!</li>  
 <li>👋🏾 Let's talk about Typescript, React, Next.js, Redux, Testing/TDD, Node, Express, SQL, NoSQL(mongo), Data Structures, REST APIs and much more!</li>  
-<li>🎮 I'm currently looking into Python, AWS, C++, Unreal Engine and Unity</li>  
+<li>🎮 I'm currently looking into Python, AWS, C++, Unreal Engine and Unity.</li>  
 <li>🔜 My next goal is to develop a fun 🧟‍♀️ horror game!</li>  
 <li>📫 How to reach me: vivianodekhiran@gmail.com</li>  
 <li>✨ Fun fact: I lived in Daejeon, South Korea for 3 years!</li>  

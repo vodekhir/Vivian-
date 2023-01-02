@@ -1,8 +1,8 @@
-👩🏿‍💻 Hello and welcome!
+<h2>👩🏿‍💻 Hello and welcome!</h1>
 
 👩🏿‍🏫 I am passionate about learning new languages!  
 
-🌺 I’m currently working on okNEXT: An open source Next.js web vitals monitoring tool for optimizing your NEXT web application😉.  
+🌺 I’m currently working on <a href="https://oknext-oslabs.vercel.app/">okNEXT</a>: An open source Next.js web vitals monitoring tool for optimizing your NEXT web application😉.  
 💻 I'm also working at Codesmith as a software engineering lecturer.  
 👩🏽‍🔬 I’m looking to continue working on more open source projects and create cool tech in the science field.  
 🌻 I’m interested in any challenging frontend, backend, or fullstack opportunities available!  
@@ -12,4 +12,4 @@
 📫 How to reach me: mail: vivianodekhiran@gmail.com  
 ✨ Fun fact: I lived in Daejeon, South Korea for 3 years!  
 
-⭐Feel free to check out some of my other projects such as ✈︎ Smoove, a solution for making your next move, smooth.  
+⭐Feel free to check out some of my other projects such as ✈︎ <a href="https://github.com/Smoove-Moving-App/Smoove">Smoove</a>, a solution for making your next move, smooth.  
